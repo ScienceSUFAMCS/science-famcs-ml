@@ -25,3 +25,23 @@
 | 22.04.2025 | Деревья решений (семинар) | [Запись](https://youtu.be/wEZE3i5NNAk?si=A_-g4mHsDFFHgFHU) | [Ноутбук](15_Деревья_решений_практика/decision-trees.ipynb) | - | 
 | 26.04.2025 | Ансамбли и бустинг (лекция) | [Запись](https://youtu.be/2M51U-8BfVU?feature=shared) | [Слайды](16_Ансамбли_и_бустинг_теория/Машинное_обучение_16.pdf) | - | 
 | 03.05.2025 | Ансамбли и бустинг (семинар) | [Запись](https://youtu.be/bMfuNUwtjU0?si=vp32eR6UGIJSmER-) | [Слайды](17_Ансамбли_и_бустинг_практика/ensembles-boosting.ipynb) | - | 
+| 06.05.2025 | Прогнозирование биржевых и валютных котировок (Бичун Константин) | - | - | - | 
+| 13.05.2025 | Введение в компьютерное зрение (Киселев Никита) | - | [Слайды](19_Введение_в_компьютерное_зрение/ComputerVision.pdf) | - | 
+| 17.05.2025 | Введение в MLOps (Авсянник Елизавета) | - | [Слайды](20_Введение_в_MLOps/MLOPS.pdf) | - | 
+| 20.05.2025 | Введение в NLP (Данькова Екатерина) | - | [Слайды](21_Введение_в_NLP/NLP_Basics.pdf) | - | 
+| 27.05.2025 | Введение в рекомендательные системы (Ляхнович Кирилл) | - | [Слайды](22_Введение_в_рекомендательные_системы/Введение_в_RecSys.pdf) | - | 
+| 27.05.2025 | Логистическая регрессия в задаче кредитного скоринга (Гиро Елизавета) | - | [Слайды](23_Кредитный_скоринг/test_task.ipynb) | - | 
+
+
+
+## Итоговый проект
+По завершению курса предлагается выполнить итоговый проект [по одной из предложенных тем в документе](projects_ml_course_famcs.pdf).
+
+## Дополнительные материалы для самообразования
+| Тема | Кто рекомендовал | Материалы |
+|:----:|:----------------:|:---------:|
+| MLOps | Елизавета Авсянник | [Курс на Stepik](https://stepik.org/course/181476/promo) [Курс OTUS](https://otus.ru/lessons/ml-bigdata/) [Яндекс интенсив](https://yandex.ru/project/q/mlops) [ODS интенсив](https://ods.ai/tracks/mlops3-course-spring-2024) |
+| Computer Vision | Никита Киселев | [Курс на Stepik от DLS](https://stepik.org/course/230362/promo) [Ноутбуки по MNIST](https://www.kaggle.com/datasets/hojjatk/mnist-dataset/data) [Ноутбук по U-Net](https://www.kaggle.com/code/hashbanger/skin-lesion-segmentation-using-unet) |
+| Рекомендательные системы | Кирилл Ляхнович | [Курс от Т-Банка](https://github.com/anamarina/RecSys_course) [Курс от МФТИ/ШАД](https://github.com/girafe-ai/recsys/tree/25s_msai)|
+| NLP | Екатерина Данькова | [Курс от ШАД](https://github.com/yandexdataschool/nlp_course) [Вводная лекция от Т-Банка](https://www.youtube.com/watch?v=E_MbFZ2CQqw) |
+
